@@ -1,6 +1,6 @@
 <?php
 
-namespace MaxwellMc\DoctrineFixturesAutonumberResetBundle\Command;
+namespace ASMBS\DoctrineFixturesAutonumberResetBundle\Command;
 
 use Doctrine\Bundle\DoctrineBundle\Command\DoctrineCommand;
 use Doctrine\Common\Persistence\ManagerRegistry;

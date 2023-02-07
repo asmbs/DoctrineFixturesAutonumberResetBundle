@@ -1,6 +1,6 @@
 <?php
 
-namespace MaxwellMc\DoctrineFixturesAutonumberResetBundle;
+namespace ASMBS\DoctrineFixturesAutonumberResetBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
