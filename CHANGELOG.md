@@ -8,7 +8,10 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 ## [Unreleased]
 
+## [4.0.0] - 2023-2-9
 
+- Dropped support for PHP versions older than 7.4
+- Changed namespace to reflect new vendor
 
 ## [3.0.0] - 2019-11-21
 
