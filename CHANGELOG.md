@@ -8,6 +8,10 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 ## [Unreleased]
 
+## [4.0.1] - 2023-4-3
+
+- Fix deprecations for symfony 5
+
 ## [4.0.0] - 2023-2-9
 
 - Dropped support for PHP versions older than 7.4
